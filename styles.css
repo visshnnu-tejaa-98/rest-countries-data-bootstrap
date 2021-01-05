@@ -42,7 +42,9 @@ img{
 @media screen and (max-width :1008px){
     .modification{
         grid-template-columns: 1fr 1fr;
+        margin-right:3%;
     }
+    
 }
 @media screen and (max-width :768px){
     .modification{
